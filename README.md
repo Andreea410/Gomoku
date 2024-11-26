@@ -33,3 +33,6 @@ The **Gomoku** project is a strategic board game implemented in Python using **O
 
 1. **Clone the Repository**:
 `git clone https://github.com/Andreea410/Gomoku`
+2. **Install Dependencies**:
+Ensure that **PyGame** is installed on your system. You can install it using pip:
+`pip install pygame`
