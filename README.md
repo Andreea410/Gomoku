@@ -36,3 +36,23 @@ The **Gomoku** project is a strategic board game implemented in Python using **O
 2. **Install Dependencies**:
 Ensure that **PyGame** is installed on your system. You can install it using pip:
 `pip install pygame`
+3. **Run the Game**:
+After installing the dependencies, you can run the game by executing the following Python file:
+`python gomoku.py`
+
+4. **Gameplay Instructions**:
+- To make a move, click on an empty cell in the grid.
+- The player plays as one color, and the computer automatically plays as the opposite color.
+- The game will notify you of the winner or a draw when the game ends.
+
+## Contributing:
+Feel free to contribute to this project by opening issues or submitting pull requests with bug fixes, features, or improvements. Contributions are always welcome!
+
+## License:
+This project is licensed under the MIT License.
+
+---
+
+📧 **Contact**: andreeaungur494@yahoo.com  
+🔗 **GitHub**: [Andreea410](https://github.com/Andreea410)
+
